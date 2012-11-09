@@ -1,5 +1,5 @@
 require "smartHTTPants/version"
+require "smartHTTPants/client"
 
 module SmartHTTPants
-  # Your code goes here...
 end
